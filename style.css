@@ -1,0 +1,89 @@
+.fullbody
+{
+    background-color: rgb(194, 27, 228);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+}
+.left
+{
+    font-size: 2rem;
+}
+.firstsection{
+    text-align: center;
+}
+.leftsection{
+    font-size: 2.70rem;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin: 100px;
+    float: left;
+}
+.rightsection img{
+    height: 70%;
+}
+.purple
+{
+    color: rgb(241, 238, 12);
+}
+#element
+{
+    color: rgb(241, 238, 12);
+}
+.secondsection
+{
+    max-width: 70vw;
+    margin: auto;
+}
+.line
+{
+    border: 0;
+    background-color: white;
+    height: 3px;
+    margin : 40px 84px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+.psize
+{
+    font-size: 25px;
+}
+.carosole
+{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+.mySkill
+{
+    text-align: center;
+}
+.pabout
+{
+    text-align:justify;
+}
+.aimgr
+{
+    height: 500px;
+    float: right;
+    margin-left: 30px;
+}
+.aimgl
+{
+    height: 400px;
+    float: left;
+    margin-right: 30px;
+}
+.ppsize
+{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 20px;
+}
